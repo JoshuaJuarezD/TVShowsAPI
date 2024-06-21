@@ -60,7 +60,8 @@ Este proyecto es una  Web API para administrar una lista de programas de televis
 ### Pasos para la Instalación
 - Clonar el Repositorio:
 > git clone https://github.com/JoshuaJuarezD/TVShowsAPI.git
-> cd tv-show-api
+- Acceder al repositorio
+> cd TVShowsAPI
 - Restaurar Paquetes NuGet:
 > dotnet restore
 - Construir el Proyecto:
